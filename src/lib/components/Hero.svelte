@@ -3,7 +3,7 @@
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-16">
       <div class="lg:col-span-7">
         <h1 class="font-serif text-5xl md:text-6xl lg:text-[64px] leading-[1.1] tracking-tight text-gray-900" style="font-family: 'Noe Display', serif;">
-          Creative work moves fast. Your tools should too.
+          Creative work moves fast.<br />Your tools should too.
         </h1>
       </div>
       <div class="lg:col-span-5 flex flex-col justify-between">
