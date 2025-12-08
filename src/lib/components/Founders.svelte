@@ -1,36 +1,36 @@
-<section class="px-6 py-12 bg-[#f5f5f5]">
-  <div class="max-w-[1400px] mx-auto relative rounded-sm overflow-hidden bg-[#0a2533] h-[500px] flex flex-col justify-center items-center text-center px-6">
+<section class="px-6 py-12 bg-[#F5F1EB]">
+  <div class="max-w-[1400px] mx-auto relative rounded-sm overflow-hidden bg-secondary-900 h-[500px] flex flex-col justify-center items-center text-center px-6">
     
     <!-- Background Image & Overlay -->
     <img 
-      src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=2968&auto=format&fit=crop" 
-      alt="Meeting" 
-      class="absolute inset-0 w-full h-full object-cover opacity-20 mix-blend-overlay grayscale"
+      src="/generated/image-professional-production-studio-environme-1765176690178-1.webp" 
+      alt="Production studio" 
+      class="absolute inset-0 w-full h-full object-cover opacity-25 mix-blend-overlay"
     />
-    <div class="absolute inset-0 bg-gradient-to-b from-[#0f3042] to-[#05151e] opacity-90"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-secondary-900/90 to-secondary-950/95 opacity-95"></div>
 
     <!-- Curved Lines -->
     <svg class="absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 1400 500" fill="none" preserveAspectRatio="none">
-      <path d="M-200,400 C100,300 400,50 1600,200" stroke="white" stroke-width="1" stroke-opacity="0.3" vector-effect="non-scaling-stroke" />
-      <path d="M-200,400 C200,350 500,150 1600,400" stroke="white" stroke-width="1" stroke-opacity="0.1" vector-effect="non-scaling-stroke" />
+      <path d="M-200,400 C100,300 400,50 1600,200" stroke="white" stroke-width="1" stroke-opacity="0.2" vector-effect="non-scaling-stroke" />
+      <path d="M-200,400 C200,350 500,150 1600,400" stroke="white" stroke-width="1" stroke-opacity="0.08" vector-effect="non-scaling-stroke" />
     </svg>
 
     <!-- Content -->
     <div class="relative z-10 max-w-2xl">
       <div class="absolute top-[-80px] left-0 flex items-center gap-2 text-white/60 text-[10px] tracking-[0.2em] font-medium uppercase">
         <div class="w-[2px] h-3 bg-white/60"></div>
-        For Founders
+        For Creative Studios
       </div>
 
-      <h2 class="font-serif text-3xl md:text-5xl text-white mb-6 leading-tight">
-        Giving projects another option for their cap table
+      <h2 class="font-serif text-3xl md:text-5xl text-white mb-6 leading-tight" style="font-family: 'Noe Display', serif;">
+        Rethink the way your team works
       </h2>
-      <p class="text-gray-400 text-lg mb-10 leading-relaxed">
-        Echo helps you raise from people who believe in what you're building — whether it's through our private investor groups or directly from your own community.
+      <p class="text-gray-300 text-lg mb-10 leading-relaxed">
+        Brave Studio replaces disjointed tools with a single space built for fast video production and smoother collaboration. See how leading agencies are transforming their workflows.
       </p>
       
-      <button class="border border-gray-600 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
-        See Echo for founders
+      <button class="border border-gray-500 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
+        View Case Studies
       </button>
     </div>
   </div>
